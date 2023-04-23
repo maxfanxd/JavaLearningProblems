@@ -11,7 +11,7 @@ public class Finally {
     public static int tryTest(){
         try{
             System.out.println("正在执行try语句里的第一行");
-            return 100;
+            return 1020;
         }
         catch(Exception e){
             e.printStackTrace();
