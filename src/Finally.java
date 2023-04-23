@@ -1,3 +1,7 @@
+/**
+ * 主要探究finally和try-catch块的执行顺序
+ */
+
 public class Finally {
     public static void main(String args[]){
         int test = tryTest();
