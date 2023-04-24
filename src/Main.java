@@ -6,5 +6,8 @@ public class Main {
         double d = 1.0;
         System.out.println((i+d)/3);
         System.out.println((i+f+0.0)/3);
+        
+        InterfaceMulTest haha = new InterfaceImpl();
+
     }
 }
